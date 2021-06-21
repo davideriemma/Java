@@ -3,4 +3,4 @@ IdeaProjects.iml
 out/
 /GitHub.iml
 .DS_Store
-.iml
+*.iml
